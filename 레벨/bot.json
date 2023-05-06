@@ -1,0 +1,15 @@
+{
+    "main": "작분석.js",
+    "option": {
+        "useUnifiedParams": false,
+        "apiLevel": 1,
+        "scriptPower": true,
+        "debugRoom": {
+            "name": "메이플 동호회",
+            "sender": "DEBUG SENDER",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "offOnRuntimeError": false
+    }
+}

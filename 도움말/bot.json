@@ -1,0 +1,16 @@
+{
+    "main": "도움말.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "debugRoom": {
+            "name": "메동",
+            "sender": "센더",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "offOnRuntimeError": false
+    }
+}
