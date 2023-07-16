@@ -1,0 +1,16 @@
+{
+    "main": "쿠키.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "debugRoom": {
+            "name": "test",
+            "sender": "sender",
+            "isGroupChat": false,
+            "packageName": "sender"
+        },
+        "offOnRuntimeError": false
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "chats": [
+        {
+            "sender": "DEBUG SENDER",
+            "content": ".",
+            "timeMillis": 1662642690433,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1662642690433-662504114193366}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1662642704980,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1662642704980-662518626130756}"
+        },
+        {
+            "sender": "잡담기능",
+            "content": "나 여기 있담",
+            "timeMillis": 1662642704996,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1662642704996-662518641497423}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1664117627664,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1664117627664-1201091532287078}"
+        },
+        {
+            "sender": "잡담기능",
+            "content": "나 여기 있담",
+            "timeMillis": 1664117627695,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1664117627695-1201091563841765}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1665327838292,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327838292-1629510685593857}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1665327852634,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327852634-1629525025950153}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1665327867728,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327867728-1629540128732960}"
+        },
+        {
+            "sender": "잡담기능",
+            "content": "네 주인님",
+            "timeMillis": 1665327867842,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327867842-1629540240238949}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1665327937671,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327937671-1629610060301683}"
+        },
+        {
+            "sender": "잡담기능",
+            "content": "나는 돌의 정령이담 1",
+            "timeMillis": 1665327937715,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327937715-1629610104063402}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1665327939175,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327939175-1629611565261787}"
+        },
+        {
+            "sender": "잡담기능",
+            "content": "쉿 재획 중이담 2",
+            "timeMillis": 1665327939224,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327939224-1629611615727516}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "돌정아",
+            "timeMillis": 1665327947229,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327947229-1629619626960013}"
+        },
+        {
+            "sender": "잡담기능",
+            "content": "네 주인님 3",
+            "timeMillis": 1665327947286,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/잡담기능\/DebugRoom\/message\/1665327947286-1629619677352148}"
+        }
+    ]
+}

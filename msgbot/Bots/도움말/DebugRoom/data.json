@@ -1,0 +1,52 @@
+{
+    "chats": [
+        {
+            "sender": "센더",
+            "content": "\/도움",
+            "timeMillis": 1672314578934,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/도움말\/DebugRoom\/message\/1672314578934-111729566279146}"
+        },
+        {
+            "sender": "센더",
+            "content": "\/도움",
+            "timeMillis": 1672314609624,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/도움말\/DebugRoom\/message\/1672314609624-111760241397363}"
+        },
+        {
+            "sender": "도움말",
+            "content": "== 고성능 AI '돌의 정령 봇' 사용설명서 ==\n**모든 명령어 앞에는 슬래시('\/')를 붙임**\n\n도움 : 이 말풍선을 띄움.\n\n돌정아 : 돌정이를 부름.\n\n정보 [캐릭터명] : 캐릭터의 기본정보.\n\n레벨 [캐릭터명] : 최근 4회의 레벨업 이력을 보여줌.\nㄴ '성장'이라고 입력해도 동일한 명령무릉 [캐릭터명] : 최근 4회의 무릉 이력을 보여줌.\n\n완장찬양 : 우리의 위대한 파딱 '그분'의 이름을 외침. 외치는 횟수로 신앙심을 검증할 것.\n\n밥 : 최첨단 인공지능이 메뉴를 추천해줌.\n\n소신발언 : 돌정이가 '일침'을 가함.\n\n...",
+            "timeMillis": 1672314609641,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/도움말\/DebugRoom\/message\/1672314609641-111760257889290}"
+        },
+        {
+            "sender": "센더",
+            "content": "\/도움",
+            "timeMillis": 1678121307962,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/도움말\/DebugRoom\/message\/1678121307962-937411726261461}"
+        },
+        {
+            "sender": "도움말",
+            "content": "== 고성능 AI '돌의 정령 봇' 사용설명서 ==\n**모든 명령어 앞에는 슬래시('\/')를 붙임**\n\n도움 : 이 말풍선을 띄움.\n돌정아 : 돌정이를 부름.\n정보 [캐릭터명] : 캐릭터의 기본정보.\n레벨 [캐릭터명] : 최근 4회의 레벨업 이력을 보여줌.\nㄴ '성장'이라고 입력해도 동일한 명령\n무릉 [캐릭터명] : 최근 4회의 무릉 이력을 보여줌.\n\n완장찬양 : 위대한 파딱의 이름을 외침. 신앙심에 따라 외치는 횟수는 랜덤.\n밥 : 최첨단 인공지능이 메뉴를 추천해줌.\n소신발언 : 돌정이가 '일침'을 가함.\n운 : 오늘의 운세를 뽑아...",
+            "timeMillis": 1678121307984,
+            "isBot": true,
+            "isLong": true,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/도움말\/DebugRoom\/message\/1678121307984-937411748475680}"
+        },
+        {
+            "sender": "센더",
+            "content": "\/밥",
+            "timeMillis": 1678121313199,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/도움말\/DebugRoom\/message\/1678121313199-937416964871511}"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "chats": [
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689389450504,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689389450504-245798969618836}"
+        },
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689390429604,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689390429604-246253838987308}"
+        },
+        {
+            "sender": "경험치",
+            "content": "김삿뽀의 경험치 히스토리\n\n7월 12일 : 4\n7월 13일 : 6\n7월 14일 : .\n7월 15일 : 8",
+            "timeMillis": 1689390429922,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689390429922-246254154535693}"
+        },
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689391535541,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689391535541-247039798159352}"
+        },
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689391546855,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689391546855-247051110886952}"
+        },
+        {
+            "sender": "경험치",
+            "content": "김삿뽀의 경험치 히스토리\n\n7월 12일 : 46.825\n7월 13일 : 55.247\n7월 14일 : 70.61\n7월 15일 : 74.786",
+            "timeMillis": 1689391547076,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689391547076-247051333875441}"
+        },
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689391567395,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689391567395-247071652787569}"
+        },
+        {
+            "sender": "경험치",
+            "content": "김삿뽀의 경험치 히스토리\n\n7월 12일 : 46.825%\n7월 13일 : 55.247%\n7월 14일 : 70.61%\n7월 15일 : 74.786%",
+            "timeMillis": 1689391567659,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689391567659-247071916631788}"
+        },
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689392349668,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689392349668-247853926885135}"
+        },
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689392362903,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689392362903-247867159743828}"
+        },
+        {
+            "sender": "tester",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1689392392643,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689392392643-247896899374181}"
+        },
+        {
+            "sender": "경험치",
+            "content": "김삿뽀의 경험치 히스토리\n\n7월 12일 : 74.786%\n7월 13일 : 2.705%\n7월 14일 : 6.772%\n7월 15일 : 27.842%",
+            "timeMillis": 1689392392813,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/경험치\/DebugRoom\/message\/1689392392813-247897070467306}"
+        }
+    ]
+}

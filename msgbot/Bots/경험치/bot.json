@@ -1,0 +1,16 @@
+{
+    "main": "경험치.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+        "scriptPower": true,
+        "debugRoom": {
+            "name": "test",
+            "sender": "tester",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "offOnRuntimeError": false
+    }
+}

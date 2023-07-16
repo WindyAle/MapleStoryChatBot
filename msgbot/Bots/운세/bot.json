@@ -1,0 +1,15 @@
+{
+    "main": "시드.js",
+    "option": {
+        "useUnifiedParams": false,
+        "apiLevel": 1,
+        "scriptPower": true,
+        "debugRoom": {
+            "name": "봇테스트",
+            "sender": "버뮤#",
+            "isGroupChat": false,
+            "packageName": "com.xfl.msgbot"
+        },
+        "offOnRuntimeError": false
+    }
+}

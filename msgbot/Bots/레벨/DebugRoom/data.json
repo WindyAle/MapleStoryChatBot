@@ -1,0 +1,804 @@
+{
+    "chats": [
+        {
+            "sender": "DEBUG SENDER",
+            "content": ".",
+            "timeMillis": 1660818475348,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/작분석\/DebugRoom\/message\/1660818475348-13409278986028}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660897747324,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660897747324-49737362287951}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660897753948,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660897753948-49743987805240}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660897759001,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660897759001-49749039421801}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660897889382,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660897889382-49879420450397}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660897905300,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660897905300-49895340240079}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660898268042,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898268042-50258081862023}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n\" : ,,\nx : \",\n\" : 2,\n, : 2",
+            "timeMillis": 1660898268243,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898268243-50258281706607}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660898749661,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898749661-50739701745798}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660898769582,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898769582-50759622682613}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660898782734,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898782734-50772772485213}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660898824507,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898824507-50814545460040}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660898963828,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898963828-50953866475039}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n\" : ,,\nx : \",\n\" : 2,\n, : 2",
+            "timeMillis": 1660898964126,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660898964126-50954163937383}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660899205832,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660899205832-51195871771718}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n\" : ,,\nx : \",\n\" : 2,\n, : 2",
+            "timeMillis": 1660899205940,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660899205940-51195978312030}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660900969211,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660900969211-52959251081566}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901000016,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901000016-52990058645513}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901005552,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901005552-52995593853167}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901028554,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901028554-53018592111127}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901083759,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901083759-53073801721470}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77 : 247",
+            "timeMillis": 1660901083948,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901083948-53073986819803}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901119651,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901119651-53109689900519}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77 : 247",
+            "timeMillis": 1660901120203,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901120203-53110244637967}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901177775,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901177775-53167817755549}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77c : 247",
+            "timeMillis": 1660901177952,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901177952-53167990864611}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901314865,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901314865-53304904805132}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77c : 247",
+            "timeMillis": 1660901315040,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901315040-53305080384090}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660901339704,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901339704-53329742937987}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77c : 247",
+            "timeMillis": 1660901339785,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660901339785-53329823176477}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660903765535,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903765535-53979753915604}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77c : 247",
+            "timeMillis": 1660903765862,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903765862-53980077393572}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660903882732,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903882732-54096947110559}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238\",\n8\\uc6d4 3\\uc77c : 241\",\n8\\uc6d4 8\\uc77c : 244\",\n8\\uc6d4 16\\uc77c : 247\"",
+            "timeMillis": 1660903883217,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903883217-54097434290871}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660903924271,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903924271-54138486367314}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238\",\n8\\uc6d4 3\\uc77c : 241\",\n8\\uc6d4 8\\uc77c : 244\",\n8\\uc6d4 16\\uc77c : 247\"",
+            "timeMillis": 1660903924480,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903924480-54138696617001}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660903936768,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903936768-54150986267466}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238\",\n8\\uc6d4 3\\uc77c : 241\",\n8\\uc6d4 8\\uc77c : 244\",\n8\\uc6d4 16\\uc77c : 247\"",
+            "timeMillis": 1660903936970,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903936970-54151185607361}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660903947537,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903947537-54161753537618}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238\",\n8\\uc6d4 3\\uc77c : 241\",\n8\\uc6d4 8\\uc77c : 244\",\n8\\uc6d4 16\\uc77c : 247\"",
+            "timeMillis": 1660903947621,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903947621-54161836577513}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660903973289,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903973289-54187504570264}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238\",\n8\\uc6d4 3\\uc77c : 241\",\n8\\uc6d4 8\\uc77c : 244\",\n8\\uc6d4 16\\uc77c : 247\"",
+            "timeMillis": 1660903973427,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903973427-54187642319795}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660903986158,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903986158-54200373749270}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77c : 247",
+            "timeMillis": 1660903986371,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660903986371-54200586937811}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660904112682,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904112682-54326899572971}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660904142959,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904142959-54357174935564}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660904161341,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904161341-54375556941442}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660904198236,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904198236-54412456090178}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238,\n8\\uc6d4 3\\uc77c : 241,\n8\\uc6d4 8\\uc77c : 244,\n8\\uc6d4 16\\uc77c : 247",
+            "timeMillis": 1660904198404,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904198404-54412620612887}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660904426321,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904426321-54640537611966}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238\",\n8\\uc6d4 3\\uc77c : 241\",\n8\\uc6d4 8\\uc77c : 244\",\n8\\uc6d4 16\\uc77c : 247\"",
+            "timeMillis": 1660904426560,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904426560-54640776788060}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660904436814,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904436814-54651029789254}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c : 238\",\n8\\uc6d4 3\\uc77c : 241\",\n8\\uc6d4 8\\uc77c : 244\",\n8\\uc6d4 16\\uc77c : 247\"",
+            "timeMillis": 1660904437013,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660904437013-54651227839723}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660907410545,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907410545-55933180876161}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\월 31\\uc77c\" : 238\",\n8\\uc6d4 3\\uc77c\" : 241\",\n8\\uc6d4 8\\uc77c\" : 244\",\n8\\uc6d4 16\\uc77c\"], [\"level\" : 247\"",
+            "timeMillis": 1660907410714,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907410714-55933347452306}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660907434787,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907434787-55957420938026}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7\\uc6d4 31\\uc77c\" : 238\",\n8\\uc6d4 3\\uc77c\" : 241\",\n8\\uc6d4 8\\uc77c\" : 244\",\n8\\uc6d4 16\\uc77c\"], [\"level\" : 247\"",
+            "timeMillis": 1660907434922,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907434922-55957556723547}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660907561840,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907561840-56084473911520}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리월7월월월6월4월31월월월77월월월월월238월월월8월월월6월4월3월월월77월월월월월241월월월8월월월6월4월8월월월77월월월월월244월월월8월월월6월4월16월월월77월월월월월월월월월월월월월월월월247월",
+            "timeMillis": 1660907562107,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907562107-56084741319749}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660907700237,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907700237-56222875612821}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월월월6월4월31월월월77월월 : 238\",\n8월월월6월4월3월월월77월월 : 241\",\n8월월월6월4월8월월월77월월 : 244\",\n8월월월6월4월16월월월77월월월월월월월월월월월월월 : 247\"",
+            "timeMillis": 1660907700452,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907700452-56223086759904}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660907941872,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907941872-56464511700385}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n : 238\",\n : 241\",\n : 244\",\n : 247\"",
+            "timeMillis": 1660907942095,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907942095-56464729046323}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660907991398,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907991398-56514032430575}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n\\월c : 238\",\n\\월c : 241\",\n\\월c : 244\",\n\\월c : 247\"",
+            "timeMillis": 1660907991524,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660907991524-56514158948647}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908046236,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908046236-56568872685033}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n\\월c : 238\",\n\\월c : 241\",\n\\월c : 244\",\n\\월c : 247\"",
+            "timeMillis": 1660908046364,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908046364-56568998215970}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908094193,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908094193-56616830952462}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월uc6d4 31\\uc77c\" : 238\",\n8월uc6d4 3\\uc77c\" : 241\",\n8월uc6d4 8\\uc77c\" : 244\",\n8월uc6d4 16\\uc77c\"], [\"level\" : 247\"",
+            "timeMillis": 1660908094273,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908094273-56616907845014}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908161106,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908161106-56683740543531}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월 31 일\" : 238\",\n8월 3 일\" : 241\",\n8월 8 일\" : 244\",\n8월 16 일\"], [\"level\" : 247\"",
+            "timeMillis": 1660908161362,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908161362-56683997679312}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908235718,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908235718-56758351423554}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월 31 일\" : 238\",\n8월 3 일\" : 241\",\n8월 8 일\" : 244\",\n8월 16 일\"], [\"level\" : 247\"",
+            "timeMillis": 1660908235877,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908235877-56758513160429}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908315028,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908315028-56837667226389}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908336889,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908336889-56859522627995}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월 31일\" : 238\",\n8\\uc6d4 3\\uc77c\" : 241\",\n8\\uc6d4 8\\uc77c\" : 244\",\n8\\uc6d4 16\\uc77c\"], [\"level\" : 247\"",
+            "timeMillis": 1660908337087,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908337087-56859722920391}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908350544,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908350544-56873177857260}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월 31일\" : 238\",\n8월 3일\" : 241\",\n8월 8일\" : 244\",\n8월 16일\"], [\"level\" : 247\"",
+            "timeMillis": 1660908350908,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908350908-56873541439812}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908382146,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908382146-56904784150582}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월 31일\" : 238\",\n8월 3일\" : 241\",\n8월 8일\" : 244\",\n8월 16일\"], [\"level\" : 247\"",
+            "timeMillis": 1660908382346,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908382346-56904979449280}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908398387,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908398387-56921026063492}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n7월 31일 : 238\",\n8월 3일 : 241\",\n8월 8일 : 244\",\n8월 16일 : 247\"",
+            "timeMillis": 1660908398529,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908398529-56921162571253}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908657600,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908657600-57180236789695}"
+        },
+        {
+            "sender": "성장",
+            "content": "238\",241\",244\",247\"",
+            "timeMillis": 1660908657910,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908657910-57180545607091}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908671093,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908671093-57193729859326}"
+        },
+        {
+            "sender": "성장",
+            "content": "238,241,244,247",
+            "timeMillis": 1660908671183,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908671183-57193816535576}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908695352,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908695352-57217988551296}"
+        },
+        {
+            "sender": "성장",
+            "content": "238\",241\",244\",247\"",
+            "timeMillis": 1660908695595,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908695595-57218230936764}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908747893,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908747893-57270528166536}"
+        },
+        {
+            "sender": "성장",
+            "content": "238\",241\",244\",247\"",
+            "timeMillis": 1660908748131,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908748131-57270766743567}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908788115,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908788115-57310749359750}"
+        },
+        {
+            "sender": "성장",
+            "content": "238,241,244,247",
+            "timeMillis": 1660908788268,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908788268-57310902855948}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908829770,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908829770-57352407569265}"
+        },
+        {
+            "sender": "성장",
+            "content": "238,241,244,247",
+            "timeMillis": 1660908830047,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908830047-57352682611921}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n\n7월 31일 : 238\n\n8월 3일 : 241,\n\n8월 8일 : 244,\n\n8월 16일 : 247",
+            "timeMillis": 1660908830064,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908830064-57352698564682}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1660908875178,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908875178-57397813365862}"
+        },
+        {
+            "sender": "성장",
+            "content": "238,241,244,247",
+            "timeMillis": 1660908875308,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908875308-57397943008519}"
+        },
+        {
+            "sender": "성장",
+            "content": "김삿뽀의 레벨 히스토리\n\n7월 31일 : 238\n8월 3일 : 241\n8월 8일 : 244\n8월 16일 : 247",
+            "timeMillis": 1660908875325,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/성장\/DebugRoom\/message\/1660908875325-57397958885289}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/성장 김삿뽀",
+            "timeMillis": 1661082942176,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/레벨\/DebugRoom\/message\/1661082942176-122079960936032}"
+        },
+        {
+            "sender": "레벨",
+            "content": "김삿뽀의 레벨 히스토리\n\n7월 31일 : 238\n8월 3일 : 241\n8월 8일 : 244\n8월 16일 : 247",
+            "timeMillis": 1661082942337,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/레벨\/DebugRoom\/message\/1661082942337-122080123186865}"
+        }
+    ]
+}

@@ -1,0 +1,3364 @@
+{
+    "chats": [
+        {
+            "sender": "DEBUG SENDER",
+            "content": "ㅅ",
+            "timeMillis": 1661662805252,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1661662805252-300324253910537}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1661662814366,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1661662814366-300333353381315}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 너의 날이담!",
+            "timeMillis": 1661662814380,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1661662814380-300333366292200}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1661662816349,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1661662816349-300335336580897}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1661662816368,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1661662816368-300335355030897}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663172937765,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663172937765-831422054066533}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173043022,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173043022-831527308062482}"
+        },
+        {
+            "sender": "운세",
+            "content": "DEBUG SENDER",
+            "timeMillis": 1663173043038,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173043038-831527325049774}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1663173043061,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173043061-831527346837378}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173639934,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173639934-832096918289817}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1663173639956,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173639956-832096943915338}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173641450,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173641450-832098436316639}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1663173641467,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173641467-832098454627004}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173643318,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173643318-832100302056118}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1663173643330,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173643330-832100314990285}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173644789,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173644789-832101773989138}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1663173644806,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173644806-832101789870180}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173646446,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173646446-832103430436325}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1663173646462,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173646462-832103445989606}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173687193,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173687193-832144180585007}"
+        },
+        {
+            "sender": "운세",
+            "content": "DEBUG SENDER",
+            "timeMillis": 1663173687211,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173687211-832144196482247}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 너의 날이담!",
+            "timeMillis": 1663173687224,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173687224-832144207702507}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173689016,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173689016-832146002431621}"
+        },
+        {
+            "sender": "운세",
+            "content": "DEBUG SENDER",
+            "timeMillis": 1663173689031,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173689031-832146016510788}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663173689058,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173689058-832146044782507}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173690943,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173690943-832147928940787}"
+        },
+        {
+            "sender": "운세",
+            "content": "DEBUG SENDER",
+            "timeMillis": 1663173690961,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173690961-832147945730266}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 너의 날이담!",
+            "timeMillis": 1663173690974,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173690974-832147959475110}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173788019,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173788019-832245003663927}"
+        },
+        {
+            "sender": "운세",
+            "content": "1",
+            "timeMillis": 1663173788033,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173788033-832245017821531}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 너의 날이담!",
+            "timeMillis": 1663173788068,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173788068-832245052721271}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173789557,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173789557-832246541249448}"
+        },
+        {
+            "sender": "운세",
+            "content": "1",
+            "timeMillis": 1663173789573,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173789573-832246556992416}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 너의 날이담!",
+            "timeMillis": 1663173789589,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173789589-832246575203406}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663173967920,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663173967920-832424905483911}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174006235,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174006235-832463220429469}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174033518,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174033518-832490502926802}"
+        },
+        {
+            "sender": "운세",
+            "content": "1",
+            "timeMillis": 1663174033538,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174033538-832490522659927}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1663174033553,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174033553-832490537475605}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174034942,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174034942-832491928190396}"
+        },
+        {
+            "sender": "운세",
+            "content": "1",
+            "timeMillis": 1663174034964,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174034964-832491952451333}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663174034982,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174034982-832491968657010}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174036524,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174036524-832493509185343}"
+        },
+        {
+            "sender": "운세",
+            "content": "1",
+            "timeMillis": 1663174036542,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174036542-832493527219197}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1663174036563,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174036563-832493550737895}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174285379,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174285379-832742367816498}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663174285404,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174285404-832742388993477}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174286483,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174286483-832743467666602}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1663174286503,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174286503-832743487393008}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174287461,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174287461-832744446409622}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 너의 날이담!",
+            "timeMillis": 1663174287480,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174287480-832744464491237}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174289043,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174289043-832746027705663}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1663174289061,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174289061-832746047056028}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174653663,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174653663-833110648468962}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1663174653681,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174653681-833110665880316}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174669756,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174669756-833126742758643}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174690282,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174690282-833147266821552}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 좀 물어봐람",
+            "timeMillis": 1663174690298,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174690298-833147283789833}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174692131,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174692131-833149117852385}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 좀 물어봐람",
+            "timeMillis": 1663174692153,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174692153-833149137451551}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174721951,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174721951-833178936030342}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 좀 물어봐람",
+            "timeMillis": 1663174721972,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174721972-833178956972946}"
+        },
+        {
+            "sender": "운세",
+            "content": "51",
+            "timeMillis": 1663174721997,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174721997-833178981712998}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174723271,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174723271-833180256836487}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 좀 물어봐람",
+            "timeMillis": 1663174723289,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174723289-833180274582946}"
+        },
+        {
+            "sender": "운세",
+            "content": "26",
+            "timeMillis": 1663174723308,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174723308-833180295058310}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663174724499,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174724499-833181484661018}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 좀 물어봐람",
+            "timeMillis": 1663174724519,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174724519-833181503555289}"
+        },
+        {
+            "sender": "운세",
+            "content": "71",
+            "timeMillis": 1663174724535,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663174724535-833181519941643}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663253817824,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253817824-874573261820124}"
+        },
+        {
+            "sender": "운세",
+            "content": "B",
+            "timeMillis": 1663253817852,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253817852-874573288368926}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663253817879,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253817879-874573316363978}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663253860957,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253860957-874616393834274}"
+        },
+        {
+            "sender": "운세",
+            "content": "undefined",
+            "timeMillis": 1663253860979,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253860979-874616417446358}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663253861004,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253861004-874616440894222}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663253991007,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253991007-874746444866568}"
+        },
+        {
+            "sender": "운세",
+            "content": "12",
+            "timeMillis": 1663253991035,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253991035-874746471189693}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1663253991058,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663253991058-874746494451308}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663254201173,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254201173-874956610511228}"
+        },
+        {
+            "sender": "운세",
+            "content": "DE",
+            "timeMillis": 1663254201196,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254201196-874956634824613}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1663254201215,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254201215-874956653033415}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663254217094,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254217094-874972531066170}"
+        },
+        {
+            "sender": "운세",
+            "content": "DER",
+            "timeMillis": 1663254217116,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254217116-874972553083878}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1663254217136,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254217136-874972574065649}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663254280404,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254280404-875035842492448}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663254298067,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254298067-875053504143014}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663254298089,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254298089-875053525547076}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663254299413,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254299413-875054850463222}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663254299430,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254299430-875054866601138}"
+        },
+        {
+            "sender": "DEBUG SENDER",
+            "content": "\/운",
+            "timeMillis": 1663254300448,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254300448-875055885663534}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 DER의 날이담!",
+            "timeMillis": 1663254300464,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254300464-875055900499055}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254924287,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254924287-875630184581336}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1663254924306,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254924306-875630203209096}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254925561,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254925561-875631458984564}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1663254925584,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254925584-875631482391960}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254926641,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254926641-875632538510658}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1663254926662,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254926662-875632559658262}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254927628,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254927628-875633525695918}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1663254927645,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254927645-875633541885293}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254928575,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254928575-875634472650501}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤#의 날이담!",
+            "timeMillis": 1663254928591,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254928591-875634488529407}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254951733,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254951733-875657632290440}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1663254951753,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254951753-875657649827992}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254952777,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254952777-875658674495231}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1663254952793,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254952793-875658690150908}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254979871,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254979871-875685769382512}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663254990556,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254990556-875696455681727}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤#%20의 날이담!",
+            "timeMillis": 1663254990580,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663254990580-875696477595216}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1663255024374,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663255024374-875730272555724}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤# 의 날이담!",
+            "timeMillis": 1663255024395,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1663255024395-875730292858693}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1664922150429,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1664922150429-1488726676758863}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1664922150472,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1664922150472-1488726719295061}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328483294,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328483294-1630155693277621}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665328483349,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328483349-1630155759591944}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328485241,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328485241-1630157650127828}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665328485988,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328485988-1630158378649182}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328488417,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328488417-1630160809945588}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤# 의 날이담!",
+            "timeMillis": 1665328488470,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328488470-1630160861594286}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328491930,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328491930-1630164321214076}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665328491964,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328491964-1630164357561368}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328533580,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328533580-1630205971771820}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자꾸 그러면 대흉을 줘버릴거담.",
+            "timeMillis": 1665328533650,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328533650-1630206045483175}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328533704,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328533704-1630206095837341}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자꾸 그러면 대흉을 줘버릴거담.",
+            "timeMillis": 1665328533742,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328533742-1630206140496560}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328539135,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328539135-1630211525731141}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자꾸 그러면 대흉을 줘버릴거담.",
+            "timeMillis": 1665328539164,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328539164-1630211554699943}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665328932250,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665328932250-1630540634070912}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665329328740,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665329328740-1630937119310812}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332071100,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332071100-1632447906972059}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332071125,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332071125-1632447931219715}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332073185,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332073185-1632449990793204}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.",
+            "timeMillis": 1665332073206,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332073206-1632450012376225}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332078361,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332078361-1632455168489504}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.",
+            "timeMillis": 1665332078381,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332078381-1632455187654817}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332080894,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332080894-1632457700505649}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665332080912,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332080912-1632457717500857}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332092075,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332092075-1632468881125176}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665332092096,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332092096-1632468903771686}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332093679,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332093679-1632470485193769}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665332093697,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332093697-1632470503061842}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332098731,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332098731-1632475537716996}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665332098753,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332098753-1632475558749809}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332116612,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332116612-1632493418113812}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665332116629,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332116629-1632493434381260}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332119842,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332119842-1632496648074436}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665332119858,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332119858-1632496664036207}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332120914,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332120914-1632497720066571}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332120933,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332120933-1632497739740113}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332121810,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332121810-1632498616310946}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332121830,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332121830-1632498636430633}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332122950,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332122950-1632499756159175}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665332122969,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332122969-1632499775015737}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332124200,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332124200-1632501006692507}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665332124221,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332124221-1632501028594799}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332125360,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332125360-1632502166908340}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665332125383,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332125383-1632502189450580}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332318871,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332318871-1632695676591704}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332318887,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332318887-1632695693362642}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332320660,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332320660-1632697466930401}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n버뮤#,버뮤#",
+            "timeMillis": 1665332320686,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332320686-1632697492151130}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332324087,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332324087-1632700895551442}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665332324106,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332324106-1632700911795504}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332423961,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332423961-1632800767155831}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665332423980,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332423980-1632800787180726}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332425230,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332425230-1632802036589424}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n버뮤#,버뮤#",
+            "timeMillis": 1665332425250,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332425250-1632802055611403}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332428825,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332428825-1632805631709475}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665332428850,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332428850-1632805656296714}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332436493,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332436493-1632813301046815}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332436513,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332436513-1632813318993951}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332438034,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332438034-1632814840947075}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332438058,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332438058-1632814865232856}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332439030,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332439030-1632815838953117}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665332439053,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332439053-1632815859361814}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332441412,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332441412-1632818220998897}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665332441440,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332441440-1632818246445928}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332690257,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332690257-1633067065407396}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665332690278,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332690278-1633067084971458}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332691679,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332691679-1633068488659010}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332706456,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332706456-1633083264938275}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665332706488,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332706488-1633083293994629}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332707664,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332707664-1633084471895358}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#\n인덱스 19카운트 3",
+            "timeMillis": 1665332707683,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332707683-1633084489124316}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332754462,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332754462-1633131270336382}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#\n인덱스 19카운트 6",
+            "timeMillis": 1665332754485,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332754485-1633131292085340}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332758259,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332758259-1633135066949193}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665332758278,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332758278-1633135085549922}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332759569,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332759569-1633136376251588}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665332759588,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332759588-1633136393939609}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332760912,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332760912-1633137719206483}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332760929,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332760929-1633137735628098}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332767438,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332767438-1633144244811220}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332767454,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332767454-1633144261083668}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332768887,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332768887-1633145695792157}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665332768910,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332768910-1633145716127262}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332770282,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332770282-1633147089613876}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332770299,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332770299-1633147105371376}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332771750,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332771750-1633148556410594}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665332771765,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332771765-1633148571066427}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332773255,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332773255-1633150063049656}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665332773273,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332773273-1633150079754395}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332774592,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332774592-1633151399534447}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#\n인덱스 19카운트 3",
+            "timeMillis": 1665332774610,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332774610-1633151418031478}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332779793,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332779793-1633156601274966}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#\n인덱스 19카운트 6",
+            "timeMillis": 1665332779814,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332779814-1633156620756007}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332869014,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332869014-1633245822891494}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#",
+            "timeMillis": 1665332869033,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332869033-1633245841569828}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665332869049,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332869049-1633245856178421}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332870849,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332870849-1633247657225556}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#",
+            "timeMillis": 1665332870870,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332870870-1633247676725556}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#\n인덱스 19카운트 3",
+            "timeMillis": 1665332870884,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332870884-1633247690289358}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332888263,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332888263-1633265071446591}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665332888283,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332888283-1633265089371695}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#\n인덱스 19카운트 6",
+            "timeMillis": 1665332888296,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332888296-1633265101951695}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332934236,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332934236-1633311042042251}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#",
+            "timeMillis": 1665332934251,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332934251-1633311057208136}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 1",
+            "timeMillis": 1665332934264,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332934264-1633311070338605}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665332934280,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332934280-1633311086969803}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332939780,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332939780-1633316588643811}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#",
+            "timeMillis": 1665332939796,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332939796-1633316603369332}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 3",
+            "timeMillis": 1665332939810,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332939810-1633316616959071}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#\n인덱스 19카운트 3",
+            "timeMillis": 1665332939824,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332939824-1633316631777196}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332944051,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332944051-1633320857707924}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665332944066,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332944066-1633320872834955}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 6",
+            "timeMillis": 1665332944080,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332944080-1633320887530007}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#\n인덱스 19카운트 6",
+            "timeMillis": 1665332944095,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332944095-1633320902028080}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332985611,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332985611-1633362419920877}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#",
+            "timeMillis": 1665332985637,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332985637-1633362444467439}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 1",
+            "timeMillis": 1665332985654,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332985654-1633362461453898}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤# 의 날이담!",
+            "timeMillis": 1665332985669,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332985669-1633362475872231}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665332987762,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332987762-1633364569893949}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#",
+            "timeMillis": 1665332987781,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332987781-1633364587743845}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 2",
+            "timeMillis": 1665332987796,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332987796-1633364603132595}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤# 의 날이담!",
+            "timeMillis": 1665332987811,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665332987811-1633364617291605}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333005840,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333005840-1633382647408057}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333005860,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333005860-1633382666529254}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 3",
+            "timeMillis": 1665333005874,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333005874-1633382681237796}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#\n인덱스 19카운트 3",
+            "timeMillis": 1665333005887,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333005887-1633382693355192}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333013676,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333013676-1633390483606752}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333013693,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333013693-1633390499849147}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 4",
+            "timeMillis": 1665333013712,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333013712-1633390519631908}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665333013739,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333013739-1633390546821126}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333018752,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333018752-1633395559706333}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333018768,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333018768-1633395575438989}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 5",
+            "timeMillis": 1665333018783,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333018783-1633395589612010}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333018799,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333018799-1633395606058156}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333021065,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333021065-1633397873218311}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333021082,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333021082-1633397890203155}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 6",
+            "timeMillis": 1665333021102,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333021102-1633397909672686}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#\n인덱스 19카운트 6",
+            "timeMillis": 1665333021124,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333021124-1633397931310186}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333079090,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333079090-1633455900436779}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333079110,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333079110-1633455917856935}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 7",
+            "timeMillis": 1665333079130,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333079130-1633455936564487}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665333079147,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333079147-1633455953570581}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333081222,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333081222-1633458030694851}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333081240,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333081240-1633458047402351}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 8",
+            "timeMillis": 1665333081258,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333081258-1633458064967455}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333081276,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333081276-1633458083266309}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333230395,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333230395-1633522175191910}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#",
+            "timeMillis": 1665333230418,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333230418-1633522195392014}"
+        },
+        {
+            "sender": "운세",
+            "content": "0 1",
+            "timeMillis": 1665333230433,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333230433-1633522209956910}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333230447,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333230447-1633522224525295}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333234199,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333234199-1633525978068054}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#",
+            "timeMillis": 1665333234215,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333234215-1633525993011700}"
+        },
+        {
+            "sender": "운세",
+            "content": "1 2",
+            "timeMillis": 1665333234232,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333234232-1633526010791856}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665333234249,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333234249-1633526025638783}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333236525,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333236525-1633528303116647}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333236541,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333236541-1633528318157793}"
+        },
+        {
+            "sender": "운세",
+            "content": "2 3",
+            "timeMillis": 1665333236565,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333236565-1633528341735241}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#\n인덱스 2카운트 3",
+            "timeMillis": 1665333236579,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333236579-1633528356372480}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333240580,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333240580-1633532358179927}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333240597,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333240597-1633532374666645}"
+        },
+        {
+            "sender": "운세",
+            "content": "3 4",
+            "timeMillis": 1665333240613,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333240613-1633532390256697}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665333240629,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333240629-1633532406889093}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333243434,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333243434-1633535211951228}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333243452,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333243452-1633535230097269}"
+        },
+        {
+            "sender": "운세",
+            "content": "4 5",
+            "timeMillis": 1665333243468,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333243468-1633535245665655}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333243486,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333243486-1633535263866384}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333245320,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333245320-1633537101168571}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333245346,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333245346-1633537124162321}"
+        },
+        {
+            "sender": "운세",
+            "content": "5 6",
+            "timeMillis": 1665333245362,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333245362-1633537139708362}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#\n인덱스 5카운트 6",
+            "timeMillis": 1665333245377,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333245377-1633537154504768}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333255572,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333255572-1633547350205233}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333255589,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333255589-1633547366243202}"
+        },
+        {
+            "sender": "운세",
+            "content": "6 7",
+            "timeMillis": 1665333255604,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333255604-1633547383404192}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333255623,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333255623-1633547401204087}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333257960,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333257960-1633549739314295}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333257978,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333257978-1633549756791639}"
+        },
+        {
+            "sender": "운세",
+            "content": "7 8",
+            "timeMillis": 1665333257994,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333257994-1633549771452524}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665333258010,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333258010-1633549786694034}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333260428,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333260428-1633552208702159}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333260451,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333260451-1633552229842367}"
+        },
+        {
+            "sender": "운세",
+            "content": "8 9",
+            "timeMillis": 1665333260467,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333260467-1633552243968096}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665333260481,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333260481-1633552258282627}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333263708,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333263708-1633555485875334}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#",
+            "timeMillis": 1665333263725,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333263725-1633555503999553}"
+        },
+        {
+            "sender": "운세",
+            "content": "0 1",
+            "timeMillis": 1665333263743,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333263743-1633555522127001}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665333263763,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333263763-1633555541438564}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333277623,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333277623-1633569401284392}"
+        },
+        {
+            "sender": "운세",
+            "content": "버뮤#,버뮤#",
+            "timeMillis": 1665333277640,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333277640-1633569417270173}"
+        },
+        {
+            "sender": "운세",
+            "content": "1 2",
+            "timeMillis": 1665333277655,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333277655-1633569432790850}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333277671,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333277671-1633569448347881}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333288974,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333288974-1633580754762148}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,버뮤#,버뮤#",
+            "timeMillis": 1665333288998,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333288998-1633580775572252}"
+        },
+        {
+            "sender": "운세",
+            "content": "0 1",
+            "timeMillis": 1665333289022,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333289022-1633580799604023}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333289070,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333289070-1633580846890846}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333314722,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333314722-1633606501121513}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,버뮤#,버뮤#",
+            "timeMillis": 1665333314741,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333314741-1633606520050732}"
+        },
+        {
+            "sender": "운세",
+            "content": "1 2",
+            "timeMillis": 1665333314758,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333314758-1633606535879950}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333314775,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333314775-1633606552783492}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333325593,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333325593-1633617373382186}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,버뮤#,버뮤#",
+            "timeMillis": 1665333325615,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333325615-1633617393407030}"
+        },
+        {
+            "sender": "운세",
+            "content": "2 3",
+            "timeMillis": 1665333325632,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333325632-1633617409874738}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 김씨,김씨,김씨,버뮤#,버뮤#\n인덱스 2카운트 3",
+            "timeMillis": 1665333325649,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333325649-1633617427044998}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333329227,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333329227-1633621005985882}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,버뮤#,버뮤#",
+            "timeMillis": 1665333329247,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333329247-1633621025142966}"
+        },
+        {
+            "sender": "운세",
+            "content": "3 4",
+            "timeMillis": 1665333329265,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333329265-1633621044461507}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665333329287,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333329287-1633621065597445}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333344348,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333344348-1633636128688481}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333344371,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333344371-1633636150061241}"
+        },
+        {
+            "sender": "운세",
+            "content": "6 3",
+            "timeMillis": 1665333344390,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333344390-1633636168180199}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#\n인덱스 6카운트 3",
+            "timeMillis": 1665333344409,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333344409-1633636186905460}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333356648,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333356648-1633648425844153}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333356668,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333356668-1633648448049049}"
+        },
+        {
+            "sender": "운세",
+            "content": "4 5",
+            "timeMillis": 1665333356688,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333356688-1633648466002226}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665333356706,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333356706-1633648483963476}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333358543,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333358543-1633650321660871}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333358561,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333358561-1633650341564934}"
+        },
+        {
+            "sender": "운세",
+            "content": "5 6",
+            "timeMillis": 1665333358583,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333358583-1633650365341392}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#\n인덱스 5카운트 6",
+            "timeMillis": 1665333358609,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333358609-1633650387773163}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333360158,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333360158-1633651937466183}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333360180,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333360180-1633651957793683}"
+        },
+        {
+            "sender": "운세",
+            "content": "6 7",
+            "timeMillis": 1665333360196,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333360196-1633651973312641}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333360219,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333360219-1633651996937277}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333363399,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333363399-1633655177665036}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333363419,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333363419-1633655196841078}"
+        },
+        {
+            "sender": "운세",
+            "content": "7 8",
+            "timeMillis": 1665333363437,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333363437-1633655214320869}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665333363454,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333363454-1633655232390557}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333364789,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333364789-1633656568331390}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333364814,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333364814-1633656593382587}"
+        },
+        {
+            "sender": "운세",
+            "content": "8 9",
+            "timeMillis": 1665333364835,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333364835-1633656614986650}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1665333364854,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333364854-1633656634000556}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333366880,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333366880-1633658658546597}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333366902,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333366902-1633658679776233}"
+        },
+        {
+            "sender": "운세",
+            "content": "9 10",
+            "timeMillis": 1665333366917,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333366917-1633658695079305}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665333366934,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333366934-1633658711930347}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333368608,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333368608-1633660385828471}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333368625,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333368625-1633660404079201}"
+        },
+        {
+            "sender": "운세",
+            "content": "10 11",
+            "timeMillis": 1665333368644,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333368644-1633660422597326}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333368663,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333368663-1633660441542482}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333370136,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333370136-1633661914975815}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333370154,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333370154-1633661933977690}"
+        },
+        {
+            "sender": "운세",
+            "content": "11 12",
+            "timeMillis": 1665333370173,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333370173-1633661951756960}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333370190,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333370190-1633661972376023}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333371583,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333371583-1633663362465345}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333371605,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333371605-1633663385009356}"
+        },
+        {
+            "sender": "운세",
+            "content": "12 13",
+            "timeMillis": 1665333371628,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333371628-1633663407296231}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665333371647,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333371647-1633663426703939}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333373330,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333373330-1633665107658209}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333373347,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333373347-1633665124447688}"
+        },
+        {
+            "sender": "운세",
+            "content": "13 14",
+            "timeMillis": 1665333373362,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333373362-1633665139666126}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333373377,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333373377-1633665154780449}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333375210,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333375210-1633666988422167}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333375231,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333375231-1633667009011281}"
+        },
+        {
+            "sender": "운세",
+            "content": "14 15",
+            "timeMillis": 1665333375247,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333375247-1633667024385240}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333375263,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333375263-1633667041879146}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333376920,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333376920-1633668697640500}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333376936,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333376936-1633668713314197}"
+        },
+        {
+            "sender": "운세",
+            "content": "15 16",
+            "timeMillis": 1665333376970,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333376970-1633668747283000}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333376986,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333376986-1633668763666385}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333378611,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333378611-1633670391523259}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333378634,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333378634-1633670411810134}"
+        },
+        {
+            "sender": "운세",
+            "content": "16 17",
+            "timeMillis": 1665333378650,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333378650-1633670427532791}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333378665,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333378665-1633670443086020}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333380471,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333380471-1633672250649717}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333380492,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333380492-1633672269550082}"
+        },
+        {
+            "sender": "운세",
+            "content": "17 18",
+            "timeMillis": 1665333380507,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333380507-1633672284154561}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333380521,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333380521-1633672299066488}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333381753,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333381753-1633673533081800}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333381776,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333381776-1633673554202737}"
+        },
+        {
+            "sender": "운세",
+            "content": "18 19",
+            "timeMillis": 1665333381792,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333381792-1633673569633154}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333381810,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333381810-1633673587515810}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333388212,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333388212-1633679991623672}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333388234,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333388234-1633680012296172}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 20",
+            "timeMillis": 1665333388252,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333388252-1633680031756016}"
+        },
+        {
+            "sender": "운세",
+            "content": "길이 나왔담.",
+            "timeMillis": 1665333388274,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333388274-1633680052693204}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333390513,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333390513-1633682292276953}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333390535,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333390535-1633682316028828}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 20",
+            "timeMillis": 1665333390556,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333390556-1633682336410130}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1665333390583,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333390583-1633682361929609}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333392924,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333392924-1633684703396587}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333392943,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333392943-1633684723070493}"
+        },
+        {
+            "sender": "운세",
+            "content": "19 20",
+            "timeMillis": 1665333392966,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333392966-1633684744889191}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길 가져가람.\n어휴 징하다 징해",
+            "timeMillis": 1665333392985,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333392985-1633684764144764}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333401263,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333401263-1633693042279188}"
+        },
+        {
+            "sender": "운세",
+            "content": "김씨,김씨,김씨,버뮤#,버뮤#,버뮤#",
+            "timeMillis": 1665333401288,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333401288-1633693066271376}"
+        },
+        {
+            "sender": "운세",
+            "content": "2 3",
+            "timeMillis": 1665333401307,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333401307-1633693086399188}"
+        },
+        {
+            "sender": "운세",
+            "content": "그만 포기해람.\n자기 운명을 부정하지 마람.\n배열: 김씨,김씨,김씨,버뮤#,버뮤#,버뮤#\n인덱스 2카운트 3",
+            "timeMillis": 1665333401326,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333401326-1633693106560021}"
+        },
+        {
+            "sender": "김씨",
+            "content": "\/운",
+            "timeMillis": 1665333737423,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333737423-1634029202207706}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 김씨의 날이담!",
+            "timeMillis": 1665333737454,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333737454-1634029232995050}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333748495,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333748495-1634040276177024}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1665333748524,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333748524-1634040305686504}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1665333750602,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333750602-1634042381641972}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤# 의 날이담!",
+            "timeMillis": 1665333750624,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1665333750624-1634042404052336}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1686536516701,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686536516701-449790220379040}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1686536532071,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686536532071-449805590874659}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤# 의 날이담!",
+            "timeMillis": 1686536532100,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686536532100-449805618942628}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1686537935956,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686537935956-450737772352168}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1686537944192,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686537944192-450746006882946}"
+        },
+        {
+            "sender": "운세",
+            "content": "봇테스트",
+            "timeMillis": 1686537944220,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686537944220-450746037670081}"
+        },
+        {
+            "sender": "운세",
+            "content": "소길이 나왔담.",
+            "timeMillis": 1686537944261,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686537944261-450746078815342}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1686537983190,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686537983190-450785005706004}"
+        },
+        {
+            "sender": "운세",
+            "content": "봇테스트",
+            "timeMillis": 1686537983222,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686537983222-450785037121525}"
+        },
+        {
+            "sender": "운세",
+            "content": "대길이 나왔담. 축하한담.\n오늘은 버뮤# 의 날이담!",
+            "timeMillis": 1686537983258,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686537983258-450785073123921}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1686538240548,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686538240548-451042363709447}"
+        },
+        {
+            "sender": "운세",
+            "content": "봇테스트",
+            "timeMillis": 1686538240581,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686538240581-451042395938822}"
+        },
+        {
+            "sender": "운세",
+            "content": "대흉이 나왔담.\n너는 끝났담.",
+            "timeMillis": 1686538240615,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686538240615-451042429861791}"
+        },
+        {
+            "sender": "버뮤#",
+            "content": "\/운",
+            "timeMillis": 1686538427864,
+            "isBot": false,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686538427864-451229679454063}"
+        },
+        {
+            "sender": "운세",
+            "content": "봇테스트",
+            "timeMillis": 1686538427891,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686538427891-451229705981511}"
+        },
+        {
+            "sender": "운세",
+            "content": "흉이 나왔담.",
+            "timeMillis": 1686538427926,
+            "isBot": true,
+            "isLong": false,
+            "long": "\/storage\/emulated\/0\/msgbot\/Bots\/운세\/DebugRoom\/message\/1686538427926-451229740226615}"
+        }
+    ]
+}
